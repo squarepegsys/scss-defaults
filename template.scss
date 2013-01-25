@@ -1,0 +1,14 @@
+@import "fonts";
+
+
+@mixin plain-text {
+    text-decoration:none;
+    color: black;
+}
+
+body {
+    margin: auto; /* center in viewport */
+    width: 960px;
+    font-family: $helvetica;
+}
+

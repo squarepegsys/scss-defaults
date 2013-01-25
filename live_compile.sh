@@ -1,0 +1,1 @@
+scss --style compact --watch template.scss:../static/css/your-name.css
